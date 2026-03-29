@@ -1,0 +1,47 @@
+
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# Build outputs
+bin/
+obj/
+
+# .NET
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio
+.vs/
+*.rsuser
+*.vsp
+*.vspx
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs & temp files
+*.log
+*.tmp
+*.cache
